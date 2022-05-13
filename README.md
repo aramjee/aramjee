@@ -1,7 +1,7 @@
 ## Hey there, I'm Amit 👋
 
 ### About me
-I'm a Finance Operations manager with a love for data. I love anything data-related from building financial models, strategic dashboards, to story telling.  I'm also a part-time graduate student at Steven's Institute of Technology studying Computer Science.  In my free time, I love biking and spending time outdoors.  I love traveling and exploring different countries and cultures when I can.
+I'm a Finance manager with a passion for data. I enjoy anything data-related from building financial models, strategic dashboards, to story-telling visualizations.  I'm also a part-time graduate student at Stevens Institute of Technology studying Computer Science.  In my free time, I love biking, spending time outdoors, traveling and exploring different countries and cultures.
 
 - 🌱 FUN FACT: The first language which I used "Hello World" with was Java.   While I'm not an engineer by profession, I still enjoy learning about CS and appreciate the broard spectrum of areas which CS touches.
 
