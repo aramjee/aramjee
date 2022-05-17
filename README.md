@@ -2,9 +2,11 @@
 
 
 ### About me
-At my current company, I play a hybrid role of Finance Operations Manager and a Product Owner for a customized ticketing platform. I enjoy anything data-related from building financial models, strategic dashboards, to story-telling visualizations - basically any opportunity where I can bring people, ideas and data together in one place.  I'm also a part-time graduate student at Stevens Institute of Technology studying Computer Science.  In my free time, I love biking, spending time outdoors, traveling and exploring different countries and cultures.
+Currently, I work in a hybrid role as a Finance/Operations Manager and a Product Owner of a customized ticketing platform for a simulation software company. I enjoy anything data-related from building financial models, strategic dashboards, to story-telling visualizations - basically any opportunity where I can bring people, ideas and data together in one place.  I'm also a part-time graduate student at Stevens Institute of Technology studying Computer Science.  In my free time, I love biking, spending time outdoors, traveling and exploring different countries and cultures.
 
-- 🌱 FUN FACT: The first language which I used "Hello World" with was Java.   While I'm not an engineer by profession, I still enjoy learning about CS and building cool things in my free time.
+- ⚡ FUN FACT: While I'm not an engineer by profession, I still enjoy learning about CS and building cool things in my free time.
+
+- 🌱 LEARNING: I'm currently learning more about SQL and database query optmization using postgreSQL
 
 ### Tech Stacks I've Dabbled With:
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
