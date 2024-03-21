@@ -2,7 +2,7 @@
 
 
 ### About me
-Currently, I work in a hybrid role as a Finance/Operations Manager and a Product Owner of a customized ticketing platform for a simulation software company. I enjoy anything data-related from building financial models, strategic dashboards, to story-telling visualizations - basically any opportunity where I can bring people, ideas and data together in one place.  I'm also a part-time graduate student at Stevens Institute of Technology studying Computer Science.  In my free time, I love biking, spending time outdoors, traveling and exploring different countries and cultures.
+Currently, I work in a hybrid role as a Finance/Operations Manager and a Product Owner of a customized ticketing platform for a simulation software company. I enjoy anything data-related from building financial models, strategic dashboards, to story-telling visualizations - basically any opportunity where I can bring people, ideas and data together in one place.  In my free time, I love biking, spending time outdoors, traveling and exploring different countries and cultures.
 
 - ⚡ FUN FACT: While I'm not an engineer by profession, I still enjoy learning about CS and building cool things in my free time.
 
