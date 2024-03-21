@@ -16,6 +16,10 @@ Currently, I work in a hybrid role as a Finance/Operations Manager and a Product
 ![Databricks](https://a11ybadges.com/badge?logo=databricks)
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 
+### CRM & BI Intellgence Tools:
+![Power BI](https://a11ybadges.com/badge?logo=powerbi)
+![Salesforce](https://a11ybadges.com/badge?logo=salesforce)
+
 <!--
 **aramjee/aramjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
