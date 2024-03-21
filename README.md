@@ -13,8 +13,8 @@ Currently, I work in a hybrid role as a Finance/Operations Manager and a Product
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-
+![Databricks](https://a11ybadges.com/badge?logo=databricks)
+![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 
 <!--
 **aramjee/aramjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
